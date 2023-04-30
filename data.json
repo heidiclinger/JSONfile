@@ -1,0 +1,70 @@
+{
+    "data": [
+        {
+            "id": 1,
+            "type": "item",
+            "category": "dine",
+            "title": "Babbo Italian Eatery",
+            "image": "https://www.exploresurprise.com/images/categories/dine/restaurants/Babbo_500x375.jpg",
+            "intro": "Serving some of the best Italian food in the state, Babbo Italian Eatery is a place locals visit to satisfy their Italian cuisine cravings.",
+            "description": "Head here to enjoy their pizza and pasta selections, from traditional spaghetti and meatballs to sweet roasted pear and grape pizza. Either way, you’ll enjoy dining at this popular restaurant.",
+            "address": "16433 West Bell Rd, Surprise, AZ 85374",
+            "phone": "623.825.1919"
+        },
+        {
+            "id": 2,
+            "type": "item",
+            "category": "dine",
+            "title": "Brookside II Sports Bar and Grille",
+            "image": "https://www.exploresurprise.com/images/categories/dine/restaurants/Brookside-2_500x375.jpg",
+            "intro": "Brookside II Sports Bar and Grille offers classic bar favorites from wings to burgers. Grab a seat and enjoy more than 50 TVs, along with multiple pool tables, dart boards and off-track betting.",
+            "description": "Brookside II Sports Bar and Grille offers classic bar favorites from wings to burgers. Grab a seat and enjoy more than 50 TVs, along with multiple pool tables, dart boards and off-track betting.",
+            "address": "15170 W Bell Rd # 115, Surprise, AZ 85374",
+            "phone": "623.556.1000"
+        },
+        {
+            "id": 3,
+            "type": "item",
+            "category": "dine",
+            "title": "Handel's Homemade Ice Cream",
+            "image": "https://www.exploresurprise.com/images/categories/dine/sweeter_side/Handels-Ice-Cream_500x375.jpg",
+            "intro": "Not only will you find traditional flavors here, you'll also find deliciously unique seasonal mixes such as Snappy Turtle or Peanut Butter & Jelly, along with vegan, sherbet and dairy-free options.",
+            "description": "Not only will you find traditional flavors here, you'll also find deliciously unique seasonal mixes such as Snappy Turtle or Peanut Butter & Jelly, along with vegan, sherbet and dairy-free options.",
+            "address": "15240 N Cotton Ln, Surprise, AZ 85388",
+            "phone": "623.546.3922"
+        },
+        {
+            "id": 4,
+            "type": "item",
+            "category": "dine",
+            "title": "Hot Bagels & Deli",
+            "image": "https://www.exploresurprise.com/images/categories/dine/restaurants/Hot-Bagels-Deli_500x375.jpg",
+            "intro": "Hot Bagels & Deli offers a huge selection of fresh bagels and cream cheese flavors. You can also find breads paired with top quality meats and classic deli sides.",
+            "description": "Hot Bagels & Deli offers a huge selection of fresh bagels and cream cheese flavors. You can also find breads paired with top quality meats and classic deli sides.",
+            "address": "13706 W Bell Rd, Surprise, AZ 85374",
+            "phone": "623.556.8108"
+        },
+        {
+            "id": 5,
+            "type": "item",
+            "category": "dine",
+            "title": "Irish Wolfhound",
+            "image": "https://www.exploresurprise.com/images/categories/dine/restaurants/Irish-Wolfhound_500x375.jpg",
+            "intro": "Irish Wolfhound Pub provides visitors a traditional Irish menu along with your favorite Irish beers.",
+            "description": "You can enjoy good food and drink alongside the many big screen TVs – perfect for any sports fan!",
+            "address": "16811 N Litchfield Rd, Surprise, AZ 85374",
+            "phone": "623.214.1004"
+        },
+        {
+            "id": 6,
+            "type": "item",
+            "category": "dine",
+            "title": "My Daddy's Italian Bakery and Café",
+            "image": "https://www.exploresurprise.com/images/categories/dine/sweeter_side/My-Daddys-Italian_500x375.jpg",
+            "intro": "Founded in Surprise by a New York transplant, this bakery offers sandwich cookies, strawberry cheese croissants, donuts, cream pies and cheesecakes. We dare you to leave with just one box of sweet treats!",
+            "description": "Founded in Surprise by a New York transplant, this bakery offers sandwich cookies, strawberry cheese croissants, donuts, cream pies and cheesecakes. We dare you to leave with just one box of sweet treats!",
+            "address": "11677 W Bell Rd #1, Surprise, AZ 85378",
+            "phone": "623.583.3677"
+        }
+    ]
+}

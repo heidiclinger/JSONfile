@@ -65,6 +65,17 @@
             "description": "Founded in Surprise by a New York transplant, this bakery offers sandwich cookies, strawberry cheese croissants, donuts, cream pies and cheesecakes. We dare you to leave with just one box of sweet treats!",
             "address": "11677 W Bell Rd #1, Surprise, AZ 85378",
             "phone": "623.583.3677"
+        },
+         {
+            "id": 7,
+            "type": "item",
+            "category": "stay",
+            "title": "Best Western Plus Surprise-Phoenix NW",
+            "image": "https://www.exploresurprise.com/images/categories/stay/articles/Articles_Best-Western_500X375.jpg",
+            "intro": "Enjoy spacious rooms and free hot breakfast at the Best Western Plus Surprise-Phoenix NW hotel.",
+            "description": "If you are looking for a great night's rest in a desirable location, book your stay at the Best Western Plus Surprise-Phoenix NW. We're close to great restaurants and shopping, and less than 10 minutes from the Surprise Stadium and only 20 minutes from Sun City Grand, the State Farm Stadium and Gila River Arena in Glendale.",
+            "address": "13337 W Grand Ave, Surprise, AZ 85374",
+            "phone": "623.554.6874"
         }
     ]
 }

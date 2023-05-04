@@ -95,54 +95,6 @@
             "description": "Experience all the amenities you need at the pet-friendly Comfort Inn & Suites Surprise. Enjoy the cocktail hour, free hot breakfast, free WiFi, an indoor heated pool and a sundeck. Plus, you can depend on Comfort Inn for affordable, comfortable rooms and all the amenities you expect. All of the rooms have a TV, microwave, refrigerator, coffee maker, hair dryer, iron and ironing board. The hotel offers access to guest laundry facilities, copy machines and a meeting room for business tasks..",
             "address": "16741 N Greasewood St, Surprise, AZ 85374",
             "phone": "520.257.4462"
-        },
-	    {
-            "id": 9,
-            "type": "item",
-            "category": "Stay",
-            "title": "Days Inn & Suites by Wyndham Surprise",
-            "bannerImage": "https://www.exploresurprise.com/images/categories/stay/articles/Articles_Days-Inn_1920X1080.jpg",
-            "image": "https://www.exploresurprise.com/images/categories/stay/articles/Articles_Days-Inn_500x375.jpg",
-            "intro": "Days Inn & Suites by Wyndham Surprise offers king suites as well as Jacuzzi suites, non-smoking and accessible rooms.",
-            "description": "Days Inn & Suites by Wyndham Surprise offers king suites as well as Jacuzzi suites, non-smoking and accessible rooms. Enjoy the heated outdoor pool and 24-hour front reception service from the multilingual staff. The hotel also offers free WiFi, 37-inch plasma TVs, a free daily newspaper, free parking, guest laundry facilities and a business center. Each hotel room features a microwave and a refrigerator as well as Serta pillow-top mattresses.",
-            "address": "12477 W Bell Rd, Surprise, AZ 85374",
-            "phone": "623.850.3931"
-        },
-	    {
-            "id": 10,
-            "type": "item",
-            "category": "Stay",
-            "title": "Hampton Inn & Suites Phoenix-Surprise",
-            "bannerImage": "https://www.exploresurprise.com/images/categories/stay/articles/Articles_Hampton-Inn_1920x1080.jpg",
-            "image": "https://www.exploresurprise.com/images/categories/stay/articles/Articles_Hampton-Inn_500x375.jpg",
-            "intro": "The Hampton Inn & Suites Phoenix-Surprise hotel is located across the street from the Banner Del E. Webb Medical Center, and within walking distance to several restaurants and shops.",
-            "description": "Find everything you expect from a great value hotel in Phoenix-Surprise and a few unexpected delights you just might not. Make yourself comfortable in a warm and inviting guest room or suite with free high-speed internet access, a handy lap desk, and a clean and fresh Hampton bed. Each morning, you can enjoy Hampton’s free hot breakfast or a tasty Hampton On the Run Breakfast Bag, available Monday to Friday. Host a meeting or special event for up to 150 guests in the versatile function space and stay connected at the business center. Wind down after hectic days with a refreshing dip in the outdoor pool or a stress-relieving workout in the fitness center.",
-            "address": "14783 W Grand Ave, Surprise, AZ 85374",
-            "phone": "623.537.9122"
-        },
-	    {
-            "id": 11,
-            "type": "item",
-            "category": "Stay",
-            "title": "Hilton Garden Inn Surprise",
-            "bannerImage": "https://www.exploresurprise.com/images/categories/stay/articles/Articles_Hilton-Garden-Inn_1920x1080_new.jpg",
-            "image": "https://www.exploresurprise.com/images/categories/stay/articles/Articles_Hilton-Garden-Inn_500x375_new.jpg",
-            "intro": "Hilton Garden Inn features complimentary WI-Fi and a 24-hour Business Center, complimentary fitness center, pool and a full-service restaurant on the property, providing everything you need to make your stay successful.",
-            "description": "Hilton Garden Inn features complimentary WI-Fi and a 24-hour Business Center, complimentary fitness center, pool and a full-service restaurant on the property, providing everything you need to make your stay successful.",
-            "address": "16601 N Stadium Way, Surprise, AZ 85374",
-            "phone": "623.404.2300"
-        },
-	    {
-            "id": 12,
-            "type": "item",
-            "category": "Stay",
-            "title": "Holiday Inn Express & Suites Surprise",
-            "bannerImage": "https://www.exploresurprise.com/images/categories/stay/articles/Articles_Holiday-Inn_1920x1080.jpg",
-            "image": "https://www.exploresurprise.com/images/categories/stay/articles/Articles_Holiday-Inn_500x375.jpg",
-            "intro": "The Holiday Inn Express Surprise is located next door to the Surprise Stadium, home of the Texas Rangers and Kansas City Royals Spring Training. Outdoor enthusiasts can enjoy some of Phoenix’s top-rated golf courses and miles of hiking & bike trails just minutes from the hotel.",
-            "description": "The Holiday Inn Express Surprise is located next door to the Surprise Stadium, home of the Texas Rangers and Kansas City Royals Spring Training. Outdoor enthusiasts can enjoy some of Phoenix’s top-rated golf courses and miles of hiking & bike trails just minutes from the hotel. The hotel is conveniently located near the University of Phoenix Stadium, home of the Arizona Cardinals, Gila River Arena and ISM Raceway. The Holiday Inn Express Surprise is a smart choice for corporate travelers visiting Banner Health, the Toyota and Ford Proving Grounds, and Luke Air Force Base.",
-            "address": "16540 N Bullard Ave, Surprise, AZ 85374",
-            "phone": "623.975.5540"
         }
     ]
 }

@@ -15,7 +15,7 @@
         {
             "id": 2,
             "type": "item",
-            "category": "dine",
+            "category": "Dine",
             "title": "Brookside II Sports Bar and Grille",
             "bannerImage": "https://www.exploresurprise.com/images/categories/dine/restaurants/Brookside-2_1920x1080.jpg",
             "image": "https://www.exploresurprise.com/images/categories/dine/restaurants/Brookside-2_500x375.jpg",
@@ -27,7 +27,7 @@
         {
             "id": 3,
             "type": "item",
-            "category": "dine",
+            "category": "Dine",
             "title": "Handel's Homemade Ice Cream",
             "bannerImage": "https://www.exploresurprise.com/images/categories/dine/sweeter_side/Handels-Ice-Cream_1920x1080.jpg",
             "image": "https://www.exploresurprise.com/images/categories/dine/sweeter_side/Handels-Ice-Cream_500x375.jpg",
@@ -39,7 +39,7 @@
         {
             "id": 4,
             "type": "item",
-            "category": "dine",
+            "category": "Dine",
             "title": "Hot Bagels & Deli",
             "bannerImage": "https://www.exploresurprise.com/images/categories/dine/restaurants/Hot-Bagels-Deli_1920x1080.jpg",
             "image": "https://www.exploresurprise.com/images/categories/dine/restaurants/Hot-Bagels-Deli_500x375.jpg",
@@ -51,7 +51,7 @@
         {
             "id": 5,
             "type": "item",
-            "category": "dine",
+            "category": "Dine",
             "title": "Irish Wolfhound",
             "bannerImage": "https://www.exploresurprise.com/images/categories/dine/restaurants/Irish-Wolfhound_1920x1080.jpg",
             "image": "https://www.exploresurprise.com/images/categories/dine/restaurants/Irish-Wolfhound_500x375.jpg",
@@ -63,7 +63,7 @@
         {
             "id": 6,
             "type": "item",
-            "category": "dine",
+            "category": "Dine",
             "title": "My Daddy's Italian Bakery and Café",
             "bannerImage": "https://www.exploresurprise.com/images/categories/dine/sweeter_side/My-Daddys-Italian-Bakery_1920x1080.jpg",
             "image": "https://www.exploresurprise.com/images/categories/dine/sweeter_side/My-Daddys-Italian_500x375.jpg",
@@ -75,7 +75,7 @@
          {
             "id": 7,
             "type": "item",
-            "category": "stay",
+            "category": "Stay",
             "title": "Best Western Plus Surprise-Phoenix NW",
             "bannerImage": "https://www.exploresurprise.com/images/categories/stay/articles/Articles_Best-Western_1089X708.jpg",
             "image": "https://www.exploresurprise.com/images/categories/stay/articles/Articles_Best-Western_500X375.jpg",

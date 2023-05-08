@@ -101,6 +101,19 @@
             "description": "Experience all the amenities you need at the pet-friendly Comfort Inn & Suites Surprise. Enjoy the cocktail hour, free hot breakfast, free WiFi, an indoor heated pool and a sundeck. Plus, you can depend on Comfort Inn for affordable, comfortable rooms and all the amenities you expect. All of the rooms have a TV, microwave, refrigerator, coffee maker, hair dryer, iron and ironing board. The hotel offers access to guest laundry facilities, copy machines and a meeting room for business tasks..",
             "address": "16741 N Greasewood St, Surprise, AZ 85374",
             "phone": "520.257.4462"
+        },
+         {
+            "id": 9,
+            "type": "item",
+            "category": "Arts & Culture",
+            "title": "City of Surprise Art Gallery",
+            "bannerImage": "https://www.exploresurprise.com/images/categories/dine/sweeter_side/My-Daddys-Italian-Bakery_1920x1080.jpg",
+            "image": "https://www.exploresurprise.com/images/categories/arts-culture/articles/Articles_City-Hall-Gallery_500x375.jpg",
+            "interiorimg": "https://www.exploresurprise.com/images/categories/dine/sweeter_side/My-Daddys-Italian-2_1200x800.jpg",
+            "intro": "Selected rotating art and some permanent pieces of the City’s art collection displayed in the first floor lobby and hallway of Surprise City Hall.",
+            "description": "The Surprise Arts and Cultural Advisory Commission selects rotating art displays and some permanent pieces of the city’s art collection located in the first floor lobby and hallway of Surprise City Hall, 16000 N. Civic Center Plaza, and also in the outdoor courtyard area.<br><br>Enjoy paintings and sculptures by area artists during regular business hours, Monday – Friday, 8 a.m. – 5 p.m., excluding holidays.",
+            "address": "16000 N. Civic Center Plaza Surprise AZ, 85374",
+            "phone": "623.222.1000"
         }
     ]
 }
